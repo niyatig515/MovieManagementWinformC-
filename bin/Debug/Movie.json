@@ -1,0 +1,37 @@
+{
+  "1": {
+    "MovieId": 1,
+    "Title": "Vincenzo",
+    "Genre": "Thriller",
+    "ReleasedYear": 2021,
+    "Director": "ABC"
+  },
+  "2": {
+    "MovieId": 2,
+    "Title": "12th Fail",
+    "Genre": "Documentry",
+    "ReleasedYear": 2024,
+    "Director": "ABC"
+  },
+  "3": {
+    "MovieId": 3,
+    "Title": "Ittefaq",
+    "Genre": "Suspense",
+    "ReleasedYear": 2019,
+    "Director": "ABC"
+  },
+  "4": {
+    "MovieId": 4,
+    "Title": "Squid game",
+    "Genre": "Thriller",
+    "ReleasedYear": 2021,
+    "Director": "ABC"
+  },
+  "5": {
+    "MovieId": 5,
+    "Title": "Stranger things",
+    "Genre": "Thriller",
+    "ReleasedYear": 2018,
+    "Director": "ABC"
+  }
+}
